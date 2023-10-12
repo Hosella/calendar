@@ -29,7 +29,7 @@
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\mdn-data\css\selectors.schema.json133414931542386403 0
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\_\_class_private_field_destructure133414931557676404 1
 84C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\cjs\clean\Comment.cjs133414931541006401 0
-49C:\Users\Сонік\Desktop\project\calendar\dist133416104281361901 1
+49C:\Users\Сонік\Desktop\project\calendar\dist133416114168935321 1
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133414931539216516 0
 93C:\Users\Сонік\Desktop\project\calendar\node_modules\type-fest\source\readonly-deep.d.ts133414931544816397 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\postcss-value-parser\README.md133414931536986402 0
@@ -126,7 +126,7 @@
 62C:\Users\Сонік\Desktop\project\calendar\src\style.css.map133414942115078776 0
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\esm\_ts_param.js133414931556026420 0
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\lib\syntax\scope\index.js133414931557096403 0
-59C:\Users\Сонік\Desktop\project\calendar\src\style.scss133416104045816178 0
+59C:\Users\Сонік\Desktop\project\calendar\src\style.scss133416114167835363 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\GY.js133414931563886400 0
 95C:\Users\Сонік\Desktop\project\calendar\node_modules\utility-types\dist\utility-types.d.ts133414931541816399 0
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133414931540906518 0
@@ -2516,7 +2516,7 @@
 106C:\Users\Сонік\Desktop\project\calendar\node_modules\entities\lib\generated\decode-data-html.d.ts.map133414931540556395 0
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\packager-html\package.json133414931541886400 0
 74C:\Users\Сонік\Desktop\project\calendar\node_modules\get-port\license133414931533616401 0
-70C:\Users\Сонік\Desktop\project\calendar\dist\calendar.59712999.js133416104046816129 0
+70C:\Users\Сонік\Desktop\project\calendar\dist\calendar.59712999.js133416114168845325 0
 107C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo.cmd133414931592790460 0
 79C:\Users\Сонік\Desktop\project\calendar\node_modules\get-port\package.json133414931529596394 0
 124C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax133414931554416521 1
@@ -3763,7 +3763,7 @@
 107C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133414931555406409 0
 95C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\package-manager\test\fixtures133414931551896400 1
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\features.js133414931562276396 0
-74C:\Users\Сонік\Desktop\project\calendar\dist\calendar.59712999.js.map133416104046886132 0
+74C:\Users\Сонік\Desktop\project\calendar\dist\calendar.59712999.js.map133416114168915330 0
 99C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\features\css-opacity.js133414931557106402 0
 83C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions133414931575646399 1
 107C:\Users\Сонік\Desktop\project\calendar\node_modules\@babel\helper-validator-identifier\lib\keyword.js133414931536366457 0
@@ -5928,7 +5928,7 @@
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\.bin\update-browserslist-db.ps1133414931592840464 0
 68C:\Users\Сонік\Desktop\project\calendar\dist\index.2cdaf7bc.css133415697396977893 0
 72C:\Users\Сонік\Desktop\project\calendar\dist\index.2cdaf7bc.css.map133415697397097907 0
-68C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css133416104046836141 0
-72C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css.map133416104046896131 0
-60C:\Users\Сонік\Desktop\project\calendar\dist\index.html133416104281351896 0
+68C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css133416114168845325 0
+72C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css.map133416114168915330 0
+60C:\Users\Сонік\Desktop\project\calendar\dist\index.html133416114168855315 0
 66C:\Users\Сонік\Desktop\project\calendar\.vscode\settings.json133414942503108744 0

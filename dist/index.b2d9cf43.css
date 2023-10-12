@@ -24,6 +24,13 @@ body {
   height: 100px;
 }
 
+.calendar__day:hover {
+  background-color: #eaff00;
+  border-radius: 4px;
+  position: relative;
+  bottom: 20px;
+}
+
 .calendar__day:nth-child(n+1):before {
   content: "1";
   color: #747429;
@@ -301,6 +308,12 @@ body {
   font-size: 25px;
   line-height: 100px;
   display: flex;
+}
+
+.calendar__day:hover:before {
+  content: "Have a good day!";
+  font-size: 19px;
+  line-height: normal;
 }
 
 .start-day-mon :first-child {

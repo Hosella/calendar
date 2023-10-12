@@ -25,6 +25,13 @@ body {
     width: $square;
     background-color: rgb(253, 255, 230);
     border: 1px solid rgb(196, 196, 100);
+
+    &:hover {
+      position: relative;
+      bottom: 20px;
+      background-color: rgb(234, 255, 0);
+      border-radius: 4px;
+    }
   }
 }
 
@@ -38,6 +45,12 @@ body {
     justify-content: center;
     line-height: $square;
   }
+}
+
+.calendar__day:hover::before {
+  content: "Have a good day!";
+  font-size: 19px;
+  line-height: normal;
 }
 
 $days: (
