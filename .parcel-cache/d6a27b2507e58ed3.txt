@@ -1,4 +1,4 @@
-5933
+5935
 75C:\Users\Сонік\Desktop\project\calendar\node_modules\svgo\lib\style.js133414931549706397 0
 101C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\cjs\syntax\node\MediaCondition.cjs133414931551136399 0
 57C:\Users\Сонік\Desktop\project\calendar\package.json133415699530504487 0
@@ -29,7 +29,7 @@
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\mdn-data\css\selectors.schema.json133414931542386403 0
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\_\_class_private_field_destructure133414931557676404 1
 84C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\cjs\clean\Comment.cjs133414931541006401 0
-49C:\Users\Сонік\Desktop\project\calendar\dist133416114168935321 1
+49C:\Users\Сонік\Desktop\project\calendar\dist133416120052198592 1
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133414931539216516 0
 93C:\Users\Сонік\Desktop\project\calendar\node_modules\type-fest\source\readonly-deep.d.ts133414931544816397 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\postcss-value-parser\README.md133414931536986402 0
@@ -65,7 +65,7 @@
 98C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\features\filesystem.js133414931562516401 0
 75C:\Users\Сонік\Desktop\project\calendar\node_modules\js-yaml\README.md133414931545856395 0
 85C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\package-manager\lib133414931552946395 1
-48C:\Users\Сонік\Desktop\project\calendar\src133414942115098292 1
+48C:\Users\Сонік\Desktop\project\calendar\src133416117478539473 1
 124C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule133414931553836396 1
 86C:\Users\Сонік\Desktop\project\calendar\node_modules\svgo\plugins\inlineStyles.js133414931544046402 0
 114C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133414931549326393 0
@@ -102,7 +102,11 @@
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\update-browserslist-db\index.js133414931533476417 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\@lezer\common\dist\index.d.cts133414931534316399 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\TR.js133414931573856391 0
-59C:\Users\Сонік\Desktop\project\calendar\src\index.html133416104280931920 0
+59C:\Users\Сонік\Desktop\project\calendar\src\index.html133416117974023789 0
+75C:\Users\Сонік\Desktop\project\calendar\node_modules\lightningcss\node133414931541646399 1
+84C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\fs\src\MemoryFS.js133414931550936405 0
+114C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133414931534316399 0
+58C:\Users\Сонік\Desktop\project\calendar\src\page.scss133416117758309560 0
 111C:\Users\Сонік\Desktop\project\calendar\node_modules\css-select\node_modules\domutils\lib\stringify.js.map133414931547376402 0
 75C:\Users\Сонік\Desktop\project\calendar\node_modules\stable\index.d.ts133414931530436401 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlnano\docs\docs\020-usage.md133414931548656402 0
@@ -126,7 +130,7 @@
 62C:\Users\Сонік\Desktop\project\calendar\src\style.css.map133414942115078776 0
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\esm\_ts_param.js133414931556026420 0
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\lib\syntax\scope\index.js133414931557096403 0
-59C:\Users\Сонік\Desktop\project\calendar\src\style.scss133416114167835363 0
+59C:\Users\Сонік\Desktop\project\calendar\src\style.scss133416119948292038 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\GY.js133414931563886400 0
 95C:\Users\Сонік\Desktop\project\calendar\node_modules\utility-types\dist\utility-types.d.ts133414931541816399 0
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133414931540906518 0
@@ -136,6 +140,10 @@
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\immutable\dist\immutable.d.ts133415695009080892 0
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lz4\lib\Makefile133414931541616392 0
 63C:\Users\Сонік\Desktop\project\calendar\node_modules\@lmdb133415699530464495 1
+70C:\Users\Сонік\Desktop\project\calendar\node_modules\browserslist133414931538686405 1
+78C:\Users\Сонік\Desktop\project\calendar\node_modules\semver\ranges\ltr.js133414931542456410 0
+108C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133414931542016398 0
+63C:\Users\Сонік\Desktop\project\calendar\src\variables.scss133416117919757734 0
 66C:\Users\Сонік\Desktop\project\calendar\node_modules\entities133414931541986399 1
 98C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\cjs\definition-syntax\index.cjs133414931549506406 0
 120C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133414931549516402 0
@@ -239,8 +247,6 @@
 132C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules133414931551426391 0
 103C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133414931548256411 0
 64C:\Users\Сонік\Desktop\project\calendar\node_modules\braces133414931535006396 1
-70C:\Users\Сонік\Desktop\project\calendar\node_modules\browserslist133414931538686405 1
-78C:\Users\Сонік\Desktop\project\calendar\node_modules\semver\ranges\ltr.js133414931542456410 0
 102C:\Users\Сонік\Desktop\project\calendar\node_modules\@babel\code-frame\node_modules\color-convert133414931536176392 1
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\semver\ranges\to-comparators.js133414931547356407 0
 80C:\Users\Сонік\Desktop\project\calendar\node_modules\json5\lib\stringify.js133414931537726404 0
@@ -303,9 +309,6 @@
 79C:\Users\Сонік\Desktop\project\calendar\node_modules\js-yaml\lib\schema.js133414931544226399 0
 69C:\Users\Сонік\Desktop\project\calendar\node_modules\detect-libc133414931535256397 1
 107C:\Users\Сонік\Desktop\project\calendar\node_modules\dom-serializer\node_modules\entities\lib\index.js133414931534906398 0
-94C:\Users\Сонік\Desktop\project\calendar\node_modules\css-what\lib\commonjs\stringify.d.ts133414931543786469 0
-66C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlnano133414931550716400 1
-90C:\Users\Сонік\Desktop\project\calendar\node_modules\term-size\vendor\macos\term-size133414931534296397 0
 93C:\Users\Сонік\Desktop\project\calendar\node_modules\svgo\plugins\removeScriptElement.js133414931548046567 0
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs133414931550346401 0
 108C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDO.cjs133414931539666451 0
@@ -351,6 +354,9 @@
 131C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\mix.js133414931551786395 0
 133C:\Users\Сонік\Desktop\project\calendar\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133414931535396523 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\AG.js133414931538836408 0
+94C:\Users\Сонік\Desktop\project\calendar\node_modules\css-what\lib\commonjs\stringify.d.ts133414931543786469 0
+66C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlnano133414931550716400 1
+90C:\Users\Сонік\Desktop\project\calendar\node_modules\term-size\vendor\macos\term-size133414931534296397 0
 69C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlparser2133414931539576401 1
 132C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertShapeToPath.js133414931542236403 0
 91C:\Users\Сонік\Desktop\project\calendar\node_modules\sass\types\value\calculation.d.ts133415695009810977 0
@@ -1307,8 +1313,6 @@
 105C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133414931556246396 0
 117C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133414931555716396 0
 85C:\Users\Сонік\Desktop\project\calendar\node_modules\supports-color\package.json133414931533446397 0
-84C:\Users\Сонік\Desktop\project\calendar\node_modules\react-refresh\package.json133414931537706400 0
-86C:\Users\Сонік\Desktop\project\calendar\node_modules\posthtml-render\changelog.md133414931534046399 0
 109C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133414931547536403 0
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\cjs\parser\index.cjs133414931549816398 0
 106C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133414931563846397 0
@@ -1564,6 +1568,8 @@
 75C:\Users\Сонік\Desktop\project\calendar\node_modules\react-refresh\cjs133414931535896398 1
 91C:\Users\Сонік\Desktop\project\calendar\node_modules\htmlnano\docs\docs\050-modules.md133414931549676397 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\js-yaml\lib\schema\failsafe.js133414931537986400 0
+84C:\Users\Сонік\Desktop\project\calendar\node_modules\react-refresh\package.json133414931537706400 0
+86C:\Users\Сонік\Desktop\project\calendar\node_modules\posthtml-render\changelog.md133414931534046399 0
 102C:\Users\Сонік\Desktop\project\calendar\node_modules\css-select\lib\esm\pseudo-selectors\index.js133414931540396394 0
 112C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\node_modules\css-tree\lib\lexer\prepare-tokens.js133414931557936392 0
 81C:\Users\Сонік\Desktop\project\calendar\node_modules\react-refresh\README.md133414931538096391 0
@@ -1676,9 +1682,9 @@
 78C:\Users\Сонік\Desktop\project\calendar\node_modules\parse-json\readme.md133414931533436400 0
 82C:\Users\Сонік\Desktop\project\calendar\node_modules\nullthrows\nullthrows.js133414931533626397 0
 111C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133414931563026389 0
-80C:\Users\Сонік\Desktop\project\calendar\node_modules\parent-module\index.js133414931530496560 0
-100C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\package.json133414931530486406 0
 72C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\README.md133414931555336395 0
+100C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\package.json133414931530486406 0
+80C:\Users\Сонік\Desktop\project\calendar\node_modules\parent-module\index.js133414931530496560 0
 117C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax133414931550926395 1
 83C:\Users\Сонік\Desktop\project\calendar\node_modules\dotenv-expand\lib\main.js133414931535536409 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\GP.js133414931563706409 0
@@ -2159,9 +2165,6 @@
 112C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133414931550116407 0
 114C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\supports.js133414931559426397 0
 113C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133414931555616416 0
-123C:\Users\Сонік\Desktop\project\calendar\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133414931546916395 0
-99C:\Users\Сонік\Desktop\project\calendar\node_modules\electron-to-chromium\chromium-versions.js133414931530626400 0
-98C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\LICENSE.md133414931533426402 0
 113C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133414931555676397 0
 93C:\Users\Сонік\Desktop\project\calendar\node_modules\css-tree\cjs\syntax\node\String.cjs133414931553316422 0
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\entities\lib\encode-trie.d.ts133414931544126682 0
@@ -2171,7 +2174,6 @@
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\lmdb\bin\download-prebuilds.js133414931554256684 0
 85C:\Users\Сонік\Desktop\project\calendar\node_modules\lines-and-columns\README.md133414931533796399 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\VC.js133414931574406412 0
-75C:\Users\Сонік\Desktop\project\calendar\node_modules\lightningcss\node133414931541646399 1
 101C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133414931561376409 0
 137C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\createCustomError.js133414931544766401 0
 80C:\Users\Сонік\Desktop\project\calendar\node_modules\lightningcss\README.md133414931539676413 0
@@ -2214,6 +2216,9 @@
 87C:\Users\Сонік\Desktop\project\calendar\node_modules\css-select\lib\types.d.ts.map133414931549806400 0
 108C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133414931548206411 0
 96C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\index.js133414931529416404 0
+123C:\Users\Сонік\Desktop\project\calendar\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133414931546916395 0
+99C:\Users\Сонік\Desktop\project\calendar\node_modules\electron-to-chromium\chromium-versions.js133414931530626400 0
+98C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\LICENSE.md133414931533426402 0
 99C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\packager-wasm\src\WasmPackager.js133414931540946400 0
 97C:\Users\Сонік\Desktop\project\calendar\node_modules\json-parse-even-better-errors\README.md133414931534426396 0
 75C:\Users\Сонік\Desktop\project\calendar\node_modules\csso\lib\usage.js133414931551976399 0
@@ -3782,9 +3787,9 @@
 109C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133414931560586406 1
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\AS.js133414931545936398 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\AU.js133414931546846402 0
-89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\AW.js133414931547746393 0
-91C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\utils\test\config.test.js133414931548596400 0
 92C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\features\ruby.js133414931571316402 0
+91C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\utils\test\config.test.js133414931548596400 0
+89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\AW.js133414931547746393 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\BA.js133414931548086401 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\BB.js133414931549176393 0
 89C:\Users\Сонік\Desktop\project\calendar\node_modules\caniuse-lite\data\regions\BE.js133414931549426407 0
@@ -4404,8 +4409,6 @@
 90C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\LICENSE133414931529586570 0
 132C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Atrule.js133414931535186405 0
 86C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\src133414931539516395 1
-84C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\fs\src\MemoryFS.js133414931550936405 0
-114C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133414931534316399 0
 98C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\src\polyfill.js133414931537916426 0
 98C:\Users\Сонік\Desktop\project\calendar\node_modules\abortcontroller-polyfill\src\ponyfill.js133414931538696397 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\@swc\helpers\cjs\_inherits.cjs133414931547836395 0
@@ -4755,7 +4758,6 @@
 95C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\cpuCount.test.js133414931540146395 0
 90C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\integration133414931538556516 1
 112C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133414931541846499 0
-108C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133414931542016398 0
 129C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133414931544766401 0
 88C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\src\backend.js133414931533576400 0
 91C:\Users\Сонік\Desktop\project\calendar\node_modules\@parcel\workers\src\childState.js133414931537806399 0
@@ -5930,5 +5932,5 @@
 72C:\Users\Сонік\Desktop\project\calendar\dist\index.2cdaf7bc.css.map133415697397097907 0
 68C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css133416114168845325 0
 72C:\Users\Сонік\Desktop\project\calendar\dist\index.b2d9cf43.css.map133416114168915330 0
-60C:\Users\Сонік\Desktop\project\calendar\dist\index.html133416114168855315 0
+60C:\Users\Сонік\Desktop\project\calendar\dist\index.html133416120052178599 0
 66C:\Users\Сонік\Desktop\project\calendar\.vscode\settings.json133414942503108744 0
