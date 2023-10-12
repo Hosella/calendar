@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.day {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(163, 163, 163);
+  border: 1px solid grey;
+}
+
+/*# sourceMappingURL=style.css.map */
